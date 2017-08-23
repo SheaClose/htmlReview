@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.column {
+  width: 33.33vw;
+  height: 99.999vh;
+  float: left;
+}
+.red {
+  background-color: red;
+}
+.blue {
+  background-color: blue;
+}
+.white {
+  background-color: white;
+}
+.purple {
+  background-color: purple;
+  height: 25vh;
+  margin-top: 75vh;
+}
+.text {
+  text-align: center;
+}
